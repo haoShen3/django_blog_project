@@ -1,7 +1,4 @@
 # django_blog_project
 
-==========
- django blog
- 
-----------
-  used to record 
+
+  used to record what i have learned
