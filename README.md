@@ -1,4 +1,4 @@
 # django_blog_project
 
 
-  used to record what i have learned
+ This is a small personal website which used to record what i have learned
